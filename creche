@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/SEU_USUARIO/gestao-creches.git
+git add .
+git commit -m 'Versão inicial do app de creches'
+git branch -M main
+git push -u origin main
